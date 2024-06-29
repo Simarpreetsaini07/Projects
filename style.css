@@ -263,55 +263,5 @@ ul li a:hover{
     padding-top: 5px;
     transition: 0.3s ease;
 }
-.logo-facebook{
-    animation-name: sim;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-}@keyframes sim{
-    from{
-        background-color: white;
-    }to{
-        background-color: blue;
-    }
-}
-.logo-instagram{
-    animation-name: sim1;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-}@keyframes sim1{
-    from{
-        background-color: white;
-    }to{
-        background-color:rgb(240, 19, 240);
-    }
-}.logo-twitter{animation-name: sim2;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-}
-    @keyframes sim2{
- from{
-        background-color: white;
-    }to{
-        background-color: lightskyblue;
-    }
-}.logo-google{
-    animation-name: sim3;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-}@keyframes sim3{
-    from{
-        background-color: black;
-    }to{
-        background-color: white;
-    }
-}.logo-skype{
-    animation-name: sim4;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-}@keyframes sim4{
-    from{
-        background-color: white;
-    }to{
-        background-color: lightskyblue;
-    }
+
 }
